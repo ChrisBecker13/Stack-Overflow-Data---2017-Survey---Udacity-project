@@ -30,10 +30,30 @@ You can install the required dependencies using pip:
 
 5. Explore the analysis results, including insights into popular programming languages, job satisfaction based on employment status, and the relationship between education level and salaries.
 
-## Contributing
-Contributions to this project are welcome! If you have any suggestions, ideas, or improvements, please feel free to open an issue or submit a pull request.
+## Key Insights
+
+1. Top Countries with the Highest Number of Developers:
+
+- USA: Leading the pack, the USA boasts a vast pool of talented developers.
+- India: With a growing tech industry, India is home to a thriving developer community.
+- UK: The UK offers a favorable environment for developers, with notable tech hubs.
+
+2. Top Countries with the Highest Average Salary for Developers:
+
+- USA: Known for its competitive salaries, the USA leads in rewarding developers financially.
+- UK: The UK offers attractive compensation packages for developers.
+- India: While lower on the list, India provides a favorable cost of living for developers.
+
+3. Work Arrangement Preferences:
+
+- Remote Work: Developers in all three countries show a preference for remote work or limited office visits.
+- Flexibility: Embracing work-life balance, developers opt for flexible work arrangements.
+
+Conclusion: These insights from the Stack Overflow Developer Survey 2017 can inform hiring decisions and foster an understanding of developer preferences.
+
+For a detailed article on this topic, please refer to the Medium article: [Here](https://medium.com/@cris.becker13/want-to-hire-a-developer-6e5687b6e8fe)
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License).
 
-Please note that the dataset used for this analysis has its own terms and conditions, which can be found on the Kaggle website.
+Please note that the dataset used for this analysis has its own terms and conditions, which can be found on the Kaggle website. - [Stack Overflow Developer Survey 2017](https://insights.stackoverflow.com/survey/2017)
